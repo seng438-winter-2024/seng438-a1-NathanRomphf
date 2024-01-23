@@ -1,4 +1,11 @@
-<html>
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Document</title>
+</head>
+<body>
 ID	Work Item Type	Title	Assigned To	State	Tags	Repro Steps
 1	Bug	Can't Inquire About Savings Account Balance 		Resolved		<div><span style="display:inline !important;">System is initialized to start with 10 $20 bills</span><br> </div><div>Card was inserted (Card number = 1) </div><div>Pin was entered (Pin = 42) </div><div>Balance Inquiry selected </div><div><br> </div><div>Option is not available to check the savings account balance </div>
 2	Bug	$200 Withdrawl Only Withdraws $20 from Savings Account		Resolved		<p style="margin:0px;font:14px &quot;Helvetica Neue&quot;;margin:0px;"><span>System is initialized to start with 10 $20 bills</span> </p><p style="margin:0px;font:14px &quot;Helvetica Neue&quot;;"><span></span><br> </p><p style="margin:0px;font:14px &quot;Helvetica Neue&quot;;margin:0px;"><span>Card was inserted (Card number = 1)</span> </p><p style="margin:0px;font:14px &quot;Helvetica Neue&quot;;margin:0px;"><span>Pin was entered (Pin = 42)</span> </p><p style="margin:0px;font:14px &quot;Helvetica Neue&quot;;margin:0px;"><span>Withdrawl selected (1 on keypad)<br></span> </p><p style="margin:0px;font:14px &quot;Helvetica Neue&quot;;margin:0px;"><span><br></span> </p><p style="margin:0px;font:14px &quot;Helvetica Neue&quot;;margin:0px;"><span>Selected withdrawal from savings&nbsp;</span> </p><p style="margin:0px;font:14px &quot;Helvetica Neue&quot;;margin:0px;"><span><br></span> </p><p style="margin:0px;font:14px &quot;Helvetica Neue&quot;;margin:0px;"><span>Selected an amount of $200 to withdraw</span> </p><p style="margin:0px;font:14px &quot;Helvetica Neue&quot;;margin:0px;"><span><br></span> </p><p style="margin:0px;font:14px &quot;Helvetica Neue&quot;;margin:0px;"><span>System dispenses $20.&nbsp;</span> </p><br>
@@ -20,4 +27,6 @@ ID	Work Item Type	Title	Assigned To	State	Tags	Repro Steps
 18	Bug	MFT: Test Case 39 - Correct re-entry of PIN on the second try is accepted		Active		<div>turn on </div><div>enter 20s and insert valid card </div><div>enter wrong pin </div><div>enter wrong pin </div><div>enter correct pin<br> </div>
 19	Bug	MFT: Test Case 40 - Invalid PIN Extension		Active		<div>turn on </div><div>enter valid 20s and card </div><div>enter invalid pin </div><div>enter invalid pin </div><div>enter correct pin<br> </div>
 ![image](https://github.com/seng438-winter-2024/seng438-a1-NathanRomphf/assets/101217605/6763d6a3-28c8-4bb0-ac42-755b657faac1)
+
+</body>
 </html>
